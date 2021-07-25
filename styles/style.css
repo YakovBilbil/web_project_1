@@ -117,10 +117,15 @@
 .content {}
 
 .description {
-    margin: 100px 100px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .two-columns {
+    width: 80%;
     min-width: 784px;
     display: flex;
     flex-direction: row;
@@ -134,7 +139,6 @@
     font-weight: normal;
     color: #2F80ED;
     margin-top: 0px;
-    /* can't solve the problem of the margins of the text */
 }
 
 .two-columns__main-text {
