@@ -235,3 +235,56 @@
 .table__text-bottom-row {
     margin-bottom: 0px;
 }
+
+.feynman {
+    background-color: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 790px;
+    position: relative;
+}
+
+.feynman__title {
+    width: 775px;
+    line-height: 1.15;
+    font-size: 120px;
+    font-weight: bold;
+    margin-top: 100px;
+    z-index: 1;
+    text-align: center;
+}
+
+.feynman__subtitle {
+    margin-top: 70px;
+    line-height: 51px;
+    font-size: 36px;
+    font-weight: normal;
+    z-index: 1;
+}
+
+.feynman__link {
+    line-height: 51px;
+    font-size: 36px;
+    font-weight: normal;
+    color: #2F80ED;
+    align-self: flex-end;
+    height: 50%;
+    position: absolute;
+    right: 48px;
+    top: 50%;
+    z-index: 1;
+}
+
+.no-margins {
+    margin: 0px;
+}
+
+.feynman__image {
+    width: 867px;
+    height: 637px;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    z-index: 0;
+}
