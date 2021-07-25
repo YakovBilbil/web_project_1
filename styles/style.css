@@ -290,6 +290,11 @@
     z-index: 0;
 }
 
+.kaufman {
+    position: relative;
+    /* overflow: hidden; */
+}
+
 .section-title_theme_dark {}
 
 .section-subtitle_theme_dark {}
@@ -302,4 +307,8 @@
 
 .table__text_theme_dark {}
 
-.kaufman__triangle {}
+.kaufman__triangle {
+    position: absolute;
+    z-index: 0;
+    right: -124px;
+}
