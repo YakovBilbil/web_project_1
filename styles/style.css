@@ -10,6 +10,7 @@
 }
 
 .header {
+    position: relative;
     height: 100vh;
     min-height: 600px;
     max-height: 756px;
@@ -288,3 +289,17 @@
     bottom: 0px;
     z-index: 0;
 }
+
+.section-title_theme_dark {}
+
+.section-subtitle_theme_dark {}
+
+.table_theme_dark {}
+
+.table__cell_theme_dark {}
+
+.table__heading_theme_dark {}
+
+.table__text_theme_dark {}
+
+.kaufman__triangle {}
