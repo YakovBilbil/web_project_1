@@ -200,6 +200,18 @@
     text-align: center;
 }
 
+.video {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px auto;
+}
+
+.video__iframes {}
+
+.video__iframe {}
+
 .digits {
     width: 100%;
     display: flex;
