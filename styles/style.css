@@ -269,7 +269,8 @@
     line-height: 34px;
     font-size: 24px;
     font-weight: normal;
-    margin: 0px;
+    margin: 50px 0px 36px;
+    width: 790px;
 }
 
 .khan__quote-author {
@@ -283,12 +284,19 @@
     line-height: 1.15;
     font-size: 24px;
     font-weight: normal;
-    margin: 0px;
+    margin: 10px 0px 68px;
 }
 
-.khan__book-container {}
+.khan__book-container {
+    display: flex;
+    width: 620px;
+    height: 608px;
+}
 
-.khan__book-pic {}
+.khan__book-pic {
+    height: 608px;
+    margin: 0px 48px 0px 0px;
+}
 
 .khan__buy-link {
     line-height: 42px;
@@ -464,10 +472,32 @@
 .kaufman__triangle {
     position: absolute;
     z-index: 0;
-    top: 0px;
+    bottom: -100px;
     right: -124px;
     width: 660px;
     height: 636px;
+}
+
+.resources {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px 0px 217px;
+}
+
+.resources__logo-zone {
+    width: 1100px;
+    height: 38px;
+    margin: 80px auto 0px;
+    display: flex;
+}
+
+.resources__logo {
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .footer {
