@@ -220,6 +220,7 @@
 .video__iframe {
     width: 515px;
     height: 316px;
+    border-style: none;
 }
 
 .oakley {
@@ -291,6 +292,7 @@
     display: flex;
     width: 620px;
     height: 608px;
+    margin-bottom: -218px;
 }
 
 .khan__book-pic {
