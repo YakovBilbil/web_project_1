@@ -1,12 +1,3 @@
-The README.md file contains:
-
-
-A description of
-
-
-
-
-
 # Project name: Learning How to Learn
 
 
@@ -40,7 +31,8 @@ A description of
 * CSS Animation
 
 
-## Social media:
+
+### Social media:
 
 * <img class="footer__social-icons" src="./images/facebook_white.svg" alt="Facebook icon"> Facebook
 
