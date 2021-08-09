@@ -42,6 +42,10 @@ A description of
 
 ## Social media:
 
-* <img class="footer__social-icons" src="./images/facebook_white.svg" alt="Facebook icon">Facebook
+* <img class="footer__social-icons" src="./images/facebook_white.svg" alt="Facebook icon"> Facebook
 
-* <img class="footer__social-icons" src="./images/instagram_white.svg" alt="Instagram icon">Instagram
+* <img class="footer__social-icons" src="./images/instagram_white.svg" alt="Instagram icon"> Instagram
+
+
+
+&copy; 2021 Yakov Bilbil
